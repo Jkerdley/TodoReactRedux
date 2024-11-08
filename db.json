@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "83a8",
+      "title": "Яблоки купить",
+      "completed": false
+    },
+    {
+      "id": "1e2e",
+      "title": "Сходить в магазин",
+      "completed": false
+    },
+    {
+      "id": "e21b",
+      "title": "Написать приложение с поиском",
+      "completed": false
+    },
+    {
+      "id": "7ee2",
+      "title": "Make Africa Great Again!",
+      "completed": false
+    },
+    {
+      "id": "1cc7",
+      "title": "Яндекс такси вызвать",
+      "completed": false
+    },
+    {
+      "id": "7385",
+      "title": "Апельсины купить",
+      "completed": false
+    }
+  ]
+}
